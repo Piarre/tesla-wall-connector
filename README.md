@@ -4,7 +4,7 @@ TypeScript library to interact with the Tesla Wall Connector local API.
 ## Installation
 
 ```bash
-npm install @piarre/tesla-wall-connector
+bun add @piarre/tesla-wall-connector
 ```
 
 ## Usage
