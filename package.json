@@ -1,6 +1,6 @@
 {
-  "name": "tesla-wall-connector",
-  "version": "0.1.0",
+  "name": "@kepa/tesla-wall-connector",
+  "version": "1.0.0",
   "description": "Blazing fast components for modern web applications",
   "license": "MIT",
   "files": [
@@ -24,6 +24,9 @@
     "typescript": {
       "optional": true
     }
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "type": "module",
   "exports": {
