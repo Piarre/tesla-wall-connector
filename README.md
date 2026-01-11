@@ -4,13 +4,13 @@ TypeScript library to interact with the Tesla Wall Connector local API.
 ## Installation
 
 ```bash
-npm install @kepa/tesla-wall-connector
+npm install @piarre/tesla-wall-connector
 ```
 
 ## Usage
 
 ```typescript
-import { getWallConnector } from "@kepa/tesla-wall-connector";
+import { getWallConnector } from "@piarre/tesla-wall-connector";
 
 const vitals = await getWallConnector("192.168.0.13", "vitals");
 const lifetime = await getWallConnector("192.168.0.13", "lifetime");

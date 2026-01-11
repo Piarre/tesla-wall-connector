@@ -3,7 +3,7 @@
   "configVersion": 1,
   "workspaces": {
     "": {
-      "name": "@kepa/tesla-wall-connector",
+      "name": "@piarre/tesla-wall-connector",
       "dependencies": {
         "zod": "^4.3.5",
       },
